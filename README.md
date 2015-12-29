@@ -1,2 +1,4 @@
-# AngularStore
-Gem Store built with AngularJS 
+# Angular Store
+Gem Store built with AngularJS.
+
+![ScreenShot](/gemStore.png)

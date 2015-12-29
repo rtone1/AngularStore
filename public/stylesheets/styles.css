@@ -1,0 +1,11 @@
+img{
+  width: 370px;
+  height: 320px;
+  padding-left: 40px;
+}
+
+.thumbnail > img{
+  width: 100px;
+  height: 100px;
+  padding: 0px;
+}
